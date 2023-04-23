@@ -196,26 +196,26 @@ input:focus, textarea:focus, select:focus
 }
 #PanelMenu1
 {
-   padding-left: 18px;
+   padding-left: 28px;
 }
 #PanelMenu1:after
 {
    position: absolute;
    top: 50%;
    left: 0px;
-   width: 18px;
-   height: 18px;
-   margin-top: -9px;
+   width: 28px;
+   height: 28px;
+   margin-top: -14px;
    content: "\f039";
    display: inline-block;
    font-family: FontAwesome;
-   font-size: 18px;
-   line-height: 18px;
+   font-size: 28px;
+   line-height: 28px;
 }
 #PanelMenu1
 {
    line-height: 48px;
-   width: 0px;
+   width: -2px;
    height: 48px;
    position: absolute;
    z-index: 999;
@@ -287,8 +287,8 @@ input:focus, textarea:focus, select:focus
    background-image: none;
    border: 0px solid #FFFFFF;
    border-radius: 0px;
-   flex-basis: 66.66666667%;
-   max-width: 66.66666667%;
+   flex-basis: 58.33333333%;
+   max-width: 58.33333333%;
    display: flex;
    flex-wrap: wrap;
    align-content: center;
@@ -303,8 +303,8 @@ input:focus, textarea:focus, select:focus
    background-image: none;
    border: 0px solid #FFFFFF;
    border-radius: 0px;
-   flex-basis: 8.33333333%;
-   max-width: 8.33333333%;
+   flex-basis: 16.66666667%;
+   max-width: 16.66666667%;
    display: flex;
    flex-wrap: wrap;
    align-content: center;
@@ -317,7 +317,7 @@ input:focus, textarea:focus, select:focus
 {
    box-sizing: border-box;
    width: 100%;
-   padding: 0 4px 0 0;
+   padding: 0 2px 0 0;
 }
 @media (max-width: 0px)
 {
@@ -1417,7 +1417,7 @@ input:focus, textarea:focus, select:focus
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
-   font-size: 19px;
+   font-size: 21px;
 }
 #Card10-card-item1 a
 {
@@ -1435,7 +1435,7 @@ input:focus, textarea:focus, select:focus
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
-   font-size: 13px;
+   font-size: 16px;
 }
 #Card10-card-item2 a
 {
@@ -1453,7 +1453,7 @@ input:focus, textarea:focus, select:focus
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
-   font-size: 12px;
+   font-size: 15px;
    text-align: center;
 }
 #Card10-card-item3 a
@@ -1467,8 +1467,8 @@ input:focus, textarea:focus, select:focus
    margin-left: 4px;
    text-align: center;
    vertical-align: top;
-   font-size: 12px;
-   width: 12px;
+   font-size: 15px;
+   width: 15px;
 }
 #wb_Card11
 {
