@@ -663,29 +663,6 @@ input:focus, textarea:focus, select:focus
    -webkit-transition: color 300ms linear 0ms;
    transition: color 300ms linear 0ms;
 }
-#Card29-card-item3
-{
-   box-sizing: border-box;
-   margin: 0;
-   padding: 0;
-   color: #9F9F9F;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 16px;
-}
-#wb_Card29:hover #Card29-card-item3
-{
-   color: #FFFFFF;
-   -webkit-transition: color 300ms linear 0ms;
-   transition: color 300ms linear 0ms;
-}
-#Card29-card-item3
-{
-   color: #9F9F9F;
-   -webkit-transition: color 300ms linear 0ms;
-   transition: color 300ms linear 0ms;
-}
 #wb_LayoutGrid6
 {
    clear: both;
